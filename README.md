@@ -69,12 +69,15 @@ python unisci_pdf.py
 ```
 
 ## 📂 Project Structure
+```text
 university-pdf-tools/
+│
 ├── word2pdf.py          # Script for batch conversion
 ├── unisci_pdf.py        # Script for merging PDFs
 ├── requirements.txt     # List of dependencies
 ├── .gitignore           # Files to ignore (docs, envs)
 └── README.md            # Project documentation
+```
 
 ## 📝 License
 This project is licensed under the MIT License - see the LICENSE file for details.
